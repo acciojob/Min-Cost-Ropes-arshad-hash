@@ -30,4 +30,4 @@ function mincost(arr)
   
 }
 
-module.exports=mincost;
+mincost(arr);
